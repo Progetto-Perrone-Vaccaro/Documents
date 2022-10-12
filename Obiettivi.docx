@@ -1,0 +1,32 @@
+Il progetto ha l’obiettivo di sviluppare un sistema per la gestione di una palestra. Sarà in grado di gestire le iscrizioni sia per i nuovi abbonati che per i clienti che vogliono partecipare a corsi esclusivi. Inoltre i clienti con un certo tipo di abbonamento avranno la possibilità di usufruire di servizi speciali come la visualizzazione di schede di allenamento personali create per loro.
+
+Servizi nello specifico che il sito permette:
+Sito per i non iscritti che mostra i vari pacchetti con i relativi prezzi e la possibilità di iscriversi.
+L’accesso alla propria area riservata tramite la quale saranno disponibili i dati personali, il materiale messo a disposizione dallo staff (schede allenamento ed alimentari, bmi calculator), la tessera per accedere all’edificio ed eventuale data di scadenza dell'abbonamento.
+Per i clienti con abbonamento e quelli non regolari, la possibilità di visualizzare corsi settimanali diversi con differenti fasce di prezzo.
+Una zona acquisti, dove i clienti potranno visualizzare lo shop, compreso di abbigliamento e alimenti sportivi (integratori, proteine…) di brand che collaborano con la palestra.
+Il sito dovrà gestire anche tutta la parte per gestire gli acquisti effettuati.
+Un area assistenza per contattare lo staff della palestra.
+
+
+Requisiti funzionali:
+Il sistema deve inviare una email ogni volta che il cliente si registra, prenota oppure effettua un ordine
+Visualizzazione dello stato del profilo
+L’utente deve essere in grado di effettuare ricerche sia sull’intero insieme di basi di dati che su un loro sottoinsieme.
+Ad ogni nuovo ordine deve essere associato un identificatore unico (Order_ID)
+Il Display deve mostrare l’elenco degli articoli acquistati, con il relativo prezzo, un eventuale sconto applicato, ed il costo complessivo dell’intera spesa.
+
+DA AGGIUNGERE
+
+Requisiti non funzionali:
+L’email dovrà inviarsi entro 5min dal verificarsi dell’azione
+Bloccare l’accesso dopo un tot di tentativi
+Sicurezza del profilo con recupero password e email
+Il sistema software non deve rilasciare ai suoi operatori nessuna informazione personale relativa ai clienti, tranne nominativo e identificatore
+L’interfaccia utente deve adattarsi alla posizione geografica dell’utente (lingua, valuta, orario)
+Scopo della feature: l’utente capisce facilmente cosa accade cliccando un’icona
+Facilità nell’usare l’app
+Il Display deve mostrare l’elenco degli articoli acquistati, con il relativo prezzo, un eventuale sconto applicato, ed il costo complessivo dell’intera spesa.
+Qualora ci siano problemi di connettività, il sistema deve comunque registrare in locale il pagamento, in modo da permettere il normale svolgimento degli acquisti nel negozio.
+
+DA AGGIUNGERE
